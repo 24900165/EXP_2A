@@ -63,9 +63,7 @@ contract Crowdfunding {
 # Expected Output:
 Users can contribute ETH to the campaign.
 
-
 If the goal is met, the creator can withdraw funds.
-
 
 If the goal is not met, contributors can claim a refund.
 
@@ -73,7 +71,12 @@ If the goal is not met, contributors can claim a refund.
 # High-Level Overview:
 Teaches decentralized fundraising.
 
-
 Avoids fraud by ensuring funds are only transferred if the goal is met.
+# Output:
+<img width="1536" height="815" alt="image" src="https://github.com/user-attachments/assets/14e38400-68bf-4043-9abf-b39b7b37bb02" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-11-18 091034" src="https://github.com/user-attachments/assets/ab7413d0-2b82-41b0-84ca-5838783ba239" />
+
 
 # RESULT: 
+The blockchain-based crowdfunding platform was successfully implemented using smart contracts. Funds were released to the project owner when the goal was achieved; otherwise, contributors could withdraw their refunds.
